@@ -1,2 +1,0 @@
-# liquescence-static
-Liquescence Static
